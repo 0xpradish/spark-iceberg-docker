@@ -26,7 +26,7 @@ Follow these steps to set up and run the project:
 ### Step 2: Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/0xpradish/spark-iceberg-docker.git
 ```
 
 ### Step 3: Navigate to the Project Directory
